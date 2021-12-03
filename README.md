@@ -11,7 +11,7 @@ I'm a Software Engineer and a Computer Scientist.
 - ⚡ Fun fact: I'm a nerd, but fun to work with.
 - 💥 My Skills are HTML, CSS, JAVASCRIPT & PYTHON.
 
-## &#x1f4c8; GitHub Stats
+<!--- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -27,4 +27,4 @@ I'm a Software Engineer and a Computer Scientist.
 
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>  --->
