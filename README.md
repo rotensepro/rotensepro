@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Folks 👋
 
 I'm a Software Engineer and a Computer Scientist.
 
