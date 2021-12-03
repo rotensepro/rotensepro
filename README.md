@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**rotensepro/rotensepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer and a Computer Scientist.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Hubspot Project.
+- 🌱 I’m currently learning C++, Java & C#.
+- 👯 I’m looking to collaborate on blockchain Opensource projects.
+- 🤔 I’m looking for help with internship.
+- 💬 Ask me about Software Engineering, coding and .
+- 📫 How to reach me:  You can fine me on Twitter:@rotensepro && Skype:@rotensepro
+- 😄 Pronouns: He/His.
+- ⚡ Fun fact: I'm a nerd, but fun to work with.
+- 💥 My Skills are HTML, CSSS, JAVASCRIPT & PYTHON.
