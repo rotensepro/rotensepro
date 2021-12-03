@@ -9,4 +9,6 @@ I'm a Software Engineer and a Computer Scientist.
 - 📫 How to reach me:  You can fine me on Twitter:@rotensepro && Skype:@rotensepro
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I'm a nerd, but fun to work with.
-- 💥 My Skills are HTML, CSSS, JAVASCRIPT & PYTHON.
+- 💥 My Skills are HTML, CSS, JAVASCRIPT & PYTHON.
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
