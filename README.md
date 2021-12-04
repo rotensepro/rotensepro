@@ -6,10 +6,10 @@ I'm a Software Engineer and a Computer Scientist.
 - 🌱 I’m currently learning C++, Java & C#.
 - 👯 I’m looking to collaborate on blockchain Opensource projects.
 - 🤔 I’m looking for help with internship.
-- 📫 How to reach me:  You can fine me on Twitter:@rotensepro && Skype:@rotensepro
+- 📫 How to reach me:  You can find me on Twitter:@rotensepro && Skype:@rotensepro
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I'm a nerd, but fun to work with.
-- 💥 My Skills: Html, Css, Javascript & Python.
+- 💥 I Speak: Html, Css, Javascript & Python.
 
 <!--- ## &#x1f4c8; GitHub Stats
 
