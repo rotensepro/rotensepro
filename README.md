@@ -9,7 +9,7 @@ I'm a Software Engineer and a Computer Scientist.
 - 📫 How to reach me:  You can find me on Twitter:@rotensepro && Skype:@rotensepro
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I'm a nerd, but fun to work with.
-- 💥 I Speak: Html, Css, Javascript, ReactJs, TailwindCss, Nodejs.
+- 💥 I Speak: Html, Css, Javascript, ReactJs, Redux, TailwindCss, Nodejs, MongoDB
 
 <!--- ## &#x1f4c8; GitHub Stats
 
